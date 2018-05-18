@@ -1,0 +1,17 @@
+input[type=text]:focus {
+    border: 3px solid #555;
+}
+
+#inputForm {
+    background-color: #D3D3D3;
+    border-radius: 15px;
+    text-align: center;
+    padding: 10px;
+}
+
+.linkBox {
+    width: 500px;
+}
+
+#schedule1 {
+}
